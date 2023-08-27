@@ -1,5 +1,0 @@
-train mean f1 score: 1.0
-train mean accuracies: 0.9206218314170838
---------------------------------------------------------------------------------
-validation mean f1 score: 0.927380490561793
-validation mean accuracies: 0.929051548004568
