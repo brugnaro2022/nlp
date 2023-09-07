@@ -1,0 +1,7 @@
+Metric,Value
+train_mean_losses,0.03681381940841675
+train_mean_f1_scores,0.9980204898034255
+train_mean_accuracies,0.9963888888888889
+val_mean_losses,0.041847889693453905
+val_mean_f1_scores,0.9926684925550608
+val_mean_accuracies,0.9866250000000001
